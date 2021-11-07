@@ -24,7 +24,6 @@ And it is very easy to use as it is deployed globally on the internet.
 ## What's next for Heart Attack Predictor 
 We are planning to make it more interactive by integrating with various medical APIs to make the website more useful and to make it a complete website and not only a detector one. We also plan to create a mobile application too.
 
-**Use our webapp at - https://heart-attack-predictor-101.herokuapp.com/**
 # Heart Attack Predictor 
 
-Use our web at - https://heart-attack-predictor-101.herokuapp.com/
+**Use our webapp at - https://heart-attack-predictor-101.herokuapp.com/**
