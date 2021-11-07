@@ -9,7 +9,7 @@ On giving the required parameters our model predicts the possibility of heart at
 ## How we built it
 We tried with multiple Machine Learning algorithms like KNN , Logistic Regression , Decision Tree and Random Forest Classifier and looking at the initial performance, we tried to improve the model performance by hyper tuning the parameter, feature selection of random forest classfier based model.
 
- _Random Forest Classifier Algorithm_ is a supervised algorithm classification method. In this algorithm, some trees form a forest. All trees in the Random Forest give the expected value of the class, and the class with the most votes is the model prediction. Random forest classifiers are more accurate as the  number of trees increases. The three common methods are: 
+ _Random Forest Classifier Algorithm_ is a supervised algorithm classification method. In this algorithm, some trees form a forest. All trees in the Random Forest give the expected value of the class, and the class with the most votes is the model prediction. The three common methods are: 
 Forest RI (random input selection). 
 Forest RC (random mix).
 Combination of forest RI and forest RC. 
