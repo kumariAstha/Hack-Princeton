@@ -15,6 +15,8 @@ Forest RC (random mix).
 Combination of forest RI and forest RC. 
 It can be used for both classification and regression problems, but good for dealing with classification problems and overcoming missing values.
 
+Further, after selecting the best model we deployed it using flask and heroku.
+
 ## Challenges we ran into
 The biggest challenge was selecting the most precise and accurate algorithm for our model.
 
@@ -23,7 +25,7 @@ We are quite proud that our model shows an accuracy of **83.51 %** with an preci
 And it is very easy to use as it is deployed globally on the internet.
 
 ## What's next for Heart Attack Predictor 
-We are planning to make it more interactive by integrating with various medical APIs to make the website more useful and to make it a complete website and not only a detector one. We also plan to create a mobile application too.
+We are planning to make it more interactive by integrating with various medical APIs to make the website more useful and to make it a complete website and not only a detector one. We also plan to create a mobile application too to make it more feasible for users to interact and keep track of their heart condition.
 
 # Heart Attack Predictor 
 
