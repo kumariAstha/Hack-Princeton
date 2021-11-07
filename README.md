@@ -1,3 +1,4 @@
+
 # Heart Attack Predictor
 ## Inspiration
 Heart attack is a common cause of death nowadays, not only old people but younger ones have also been victims of this. Although we have specialized doctors in this, yet the doctor to patient ratio is huge making our medical infrastructure inefficient. This is where Machine Learning comes in, our model will predict the chances of heart attack of a person based on various parameters. With an accuracy of **83.51 %** with an precision of **84.31%** .
@@ -24,3 +25,6 @@ And it is very easy to use as it is deployed globally on the internet.
 We are planning to make it more interactive by integrating with various medical APIs to make the website more useful and to make it a complete website and not only a detector one. We also plan to create a mobile application too.
 
 **Use our webapp at - https://heart-attack-predictor-101.herokuapp.com/
+# Heart Attack Predictor 
+
+Use our web at - https://heart-attack-predictor-101.herokuapp.com/
